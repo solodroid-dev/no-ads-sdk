@@ -11,9 +11,15 @@ public class GDPR {
     }
 
     public void updateGDPRConsentStatus() {
+
+    }
+
+    public void updateGDPRConsentStatus(String adType, boolean isDebug, boolean childDirected) {
+
     }
 
     public void loadForm(Activity activity) {
+
     }
 
 }
